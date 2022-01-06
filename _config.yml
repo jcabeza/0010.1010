@@ -4,12 +4,12 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - ./README.md
-  - ./more-topics/README.md
-  - ./phase1/README.md
-  - ./phase2/README.md
-  - ./phase3/README.md
-  - ./phase4/README.md
-  - ./resources/readme.md
+  - README.md
+  - more-topics/README.md
+  - phase1/README.md
+  - phase2/README.md
+  - phase3/README.md
+  - phase4/README.md
+  - resources/readme.md
 
 theme: jekyll-theme-minimal
