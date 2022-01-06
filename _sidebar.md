@@ -1,5 +1,7 @@
 <!-- docs/_sidebar.md -->
 
+![logo](img/Logo-03.svg)
+
 - Start here 
   - [Welcome](/#welcome)
 
