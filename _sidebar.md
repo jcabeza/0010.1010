@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-![logo](/img/Logo-03.svg)
+![logo](img/Logo-03.svg)
 
 - Start here 
   - [Welcome from Azure](/#welcome)
